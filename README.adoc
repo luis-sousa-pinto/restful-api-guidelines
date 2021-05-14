@@ -13,9 +13,5 @@ recommendations to the tech community at large.
 
 == Usage
 
-As a Sonae MC API's Craftman, you MUST use these guidelines as a guidance for your own
-development. Note that we encourage our own teams to use them in order
-to challenge their APIs. As such, you should consider this to be a
-living, evolving document. We will revise and update based on our
-learnings and experiences.
+As a Sonae MC API's Craftman, you MUST use these guidelines as a guidance whenever you create or change an API. As such, you should consider this to be a living and evolving document. We will revise and update based on our learnings and experiences.
 
